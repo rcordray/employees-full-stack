@@ -1,7 +1,7 @@
 var pg = require('pg');
 
 var config = {
-    database: '',
+    database: 'employees',
     host: 'localhost',
     port: 5432,
     max: 10,
