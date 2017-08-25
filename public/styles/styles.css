@@ -1,6 +1,5 @@
 body {
-    background: url('images/paperclip.jpg') top no-repeat;
-    background-size: cover;
+    background: url('images/background.jpg');
     text-shadow: white 2px 2px 2px;
     background-color: black;
 }
